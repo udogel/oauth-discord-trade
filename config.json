@@ -1,0 +1,6 @@
+{
+    "client_id": "# OAUTH2 CLIENT_ID",
+    "client_secret": "# OAUTH2 CLIENT_SECRET",
+    "localhost_port": "53134",
+    "timeout_time": 60
+}
